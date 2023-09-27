@@ -1,0 +1,30 @@
+cristinel.ababei, 2023
+
+These publicly available datasets were first "cleaned". Cleaning means:
+For each dataset, I pruned the first entries until I reached the 
+first 24 h with complete data. After that I filled in the missing data 
+with the values of exactly 24 hours before. I assume one day at any 
+time will be more likely like the day before at the same time.
+Pruned also the end so that I have complete entire days, each with 24 values;
+in this way we keep things simple...
+
+--> dataset 1
+(Outdoor)
+"Air Quality Data in India (2015 - 2020)"
+https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india 
+Note: Used data only for location: Amaravati, Andhra Pradesh
+
+--> dataset 2
+(Outdoor)
+"Beijing Multi-Site Air-Quality Data"
+https://archive.ics.uci.edu/dataset/501/beijing+multi+site+air+quality+data
+
+--> dataset 3
+(Outdoor)
+"Air Pollution in Seoul"
+https://www.kaggle.com/datasets/bappekim/air-pollution-in-seoul
+
+---> dataset 4
+(Outdoor)
+"2001-2022 hourly dataset of pollution in Madrid"
+https://www.kaggle.com/datasets/ignacioqg/20012022-hourly-dataset-of-pollution-in-madrid
