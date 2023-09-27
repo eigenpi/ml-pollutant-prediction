@@ -12,5 +12,7 @@ pollutants based on measured other pollutants?, IEEE Int. Electro/Information
 Technology Conference (EIT), Romeoville, IL, May 18-20, 2023. 
 
 You can find a copy of the paper here:
+
 http://dejazzer.com/doc/2023_eit1.pdf
+
 https://ieeexplore.ieee.org/document/10187232
